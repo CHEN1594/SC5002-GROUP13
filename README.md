@@ -38,4 +38,4 @@ conda activate sc
 pip install -r requirements.txt
 
 # run notebook (open in VS Code or Jupyter)
-jupyter notebook Lab2_HousePrice_Prediction.ipynb
+jupyter notebook HousePrice_Prediction.ipynb
