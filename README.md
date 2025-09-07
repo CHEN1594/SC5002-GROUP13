@@ -24,3 +24,18 @@ These results show that Ridge Regression with an appropriate regularization stre
 <p align="center">
   <img src="assets/image.png" alt="Baseline Ridge CV Results" width="600"/>
 </p>
+
+## How to Run
+
+```bash
+# create environment
+conda create -n sc python=3.10
+
+# activate environment
+conda activate sc
+
+# install dependencies
+pip install -r requirements.txt
+
+# run notebook (open in VS Code or Jupyter)
+jupyter notebook Lab2_HousePrice_Prediction.ipynb
